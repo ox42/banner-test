@@ -7,7 +7,8 @@ A simple demonstration of an API developed with GraphQL, and a single page appli
 
 To run the backend, go to the backend directory, install dependencies with "npm install" and run:
 
-`npm start`   (under /backend)
+`npm run build`   (under /backend, just once, so tsc does the initial /build)
+`npm start`   (under /backend, this starts nodemon and watches for file changes)
 
 <br /><br />
 
