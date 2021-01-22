@@ -1,0 +1,11 @@
+{
+  "database": {
+    "database": "banner-test",
+    "dialect": "sqlite",
+    "username": "root",
+    "storage": "./db.development.sqlite"
+  },
+
+  "port": "4000",
+  "jwt_secret": "secret_key"
+}

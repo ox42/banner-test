@@ -1,0 +1,14 @@
+.AuthLinks {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.AuthLinks a {
+    padding: 10px 15px;
+
+    text-decoration: none;
+    color: black;
+    opacity: 0.7;
+}

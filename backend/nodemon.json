@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "ext": "js ts json",
+  "ignore": ["node_modules/", "tests/*", "docs/*"],
+  "delay": 1500
+}
